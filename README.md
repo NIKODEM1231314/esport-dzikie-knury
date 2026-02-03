@@ -43,7 +43,7 @@ It is my first more advanced project where I combined HTML5, CSS3, JavaScript, a
 All content, texts, and media on the site are used for **educational and entertainment purposes only** — this is not a commercial or official team website.  
 The goal of this project was to experiment with modern web layouts, semantic HTML, and interactive UI elements while having fun creating something visually appealing.
 
---
+---
 
 ## Project Purpose
 
